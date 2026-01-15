@@ -1,0 +1,31 @@
+work_dir = C:/Users/isaac/Documents/Projects/LED Matrix/LED_Matrix_Schem
+in_pcb_file = LED_Matrix_Schem.kicad_pcb
+root_schematic_file = LED_Matrix_Schem.kicad_sch
+store to sheet[] = LED_Matrix_Schem.kicad_sch
+/10c99e1c-aa83-4f0b-9cf4-2fb3b0fb013e ('#PWR010', (11811, 10541), '')
+/23faf79d-01f8-44cf-94e7-85cbf2ea5e2e ('#PWR013', (10541, 10033), '')
+/24b9428f-e450-486a-acf8-ee80d3b550dc ('#PWR06', (14097, 10414), '')
+/44f50458-94cb-4e55-9458-fcdd61221edf ('#PWR08', (11811, 10033), '')
+/47d775e8-e0a3-460b-bff4-c0fe260aea13 ('#PWR02', (16510, 12446), '')
+/4b3f5f4e-6683-4cdc-a95f-60a2e20576f7 ('J3', (11049, 10287), '')
+/5a24de66-9d06-4506-b35d-0934532ea129 ('A1', (16256, 9906), '')
+/6624f57d-779b-4db5-85e6-0688aea28d36 ('#PWR01', (16256, 12446), '')
+/6955d38e-c998-4121-b628-c56cce1e5b37 ('#PWR011', (11811, 10795), '')
+/74541da2-2b24-4d8a-a1dc-a6c556f9ec1a ('#PWR015', (10541, 10541), '')
+/9ee9e549-5789-4576-aef1-712bbb597bad ('J1', (13588, 10668), '')
+/9f60b49f-ced5-4218-91cd-cdfe15b55e80 ('#PWR05', (16002, 7366), '')
+/b95917b5-6472-4cf4-8019-0b1f289a8412 ('#PWR04', (11938, 9017), '')
+/d06ed4b1-7033-4c21-8c05-7973756d83d7 ('#PWR03', (11938, 8509), '')
+/d23f9e8a-18e8-4ae1-a67a-63ab53b5a9ce ('#PWR09', (11811, 10287), '')
+/dab8f487-88e1-4b35-9110-3e9be7a5266c ('J2', (11176, 8763), '')
+/deb03672-01a3-4ce5-8925-94ca477b1a18 ('#PWR014', (10541, 10287), '')
+/e922e12f-8aa8-4b09-99bb-637a7778afa3 ('#PWR07', (14097, 10922), '')
+/f2e5c636-b6de-4a00-9286-19784eeb0c58 ('#PWR016', (10541, 10795), '')
+J1 /9ee9e549-5789-4576-aef1-712bbb597bad
+  path = /9ee9e549-5789-4576-aef1-712bbb597bad   sheet =    ref = J1   pos = (13588, 10668)   new_pos = (67940000, 53340000)
+J2 /dab8f487-88e1-4b35-9110-3e9be7a5266c
+  path = /dab8f487-88e1-4b35-9110-3e9be7a5266c   sheet =    ref = J2   pos = (11176, 8763)   new_pos = (55880000, 43815000)
+A1 /5a24de66-9d06-4506-b35d-0934532ea129
+  path = /5a24de66-9d06-4506-b35d-0934532ea129   sheet =    ref = A1   pos = (16256, 9906)   new_pos = (81280000, 49530000)
+J3 /4b3f5f4e-6683-4cdc-a95f-60a2e20576f7
+  path = /4b3f5f4e-6683-4cdc-a95f-60a2e20576f7   sheet =    ref = J3   pos = (11049, 10287)   new_pos = (55245000, 51435000)

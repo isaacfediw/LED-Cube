@@ -14,6 +14,7 @@ To make my design easily printable, and to reduce the amount of wasted filament 
 ## Pictures
 ### Display
 <img width="846" height="869" alt="image" src="https://github.com/user-attachments/assets/ab7afee2-a949-41c4-a060-836142749169" />
+<img width="1497" height="924" alt="image" src="https://github.com/user-attachments/assets/0e833816-acdf-4b29-8e14-eeca35ffdb78" />
 
 ### 3D Model
 <img width="1420" height="782" alt="3D Model" src="https://github.com/user-attachments/assets/2df75ce4-019e-49fd-9b6c-6a356e759151" />
